@@ -6,8 +6,10 @@ The idea behind this analysis is to understand school performance (math and read
 ### District Summary
 * There was tittle to no difffernce between data that included and excluded 9th graders at Thomas High School
 * Included:
+
 ![Screen Shot 2021-07-08 at 4 08 42 PM](https://user-images.githubusercontent.com/82982180/124991092-d43b1700-e006-11eb-90a0-cf5340e32591.png)
 * Excluded:
+
 ![Screen Shot 2021-07-08 at 4 09 44 PM](https://user-images.githubusercontent.com/82982180/124991193-f2a11280-e006-11eb-8718-f12913cb0e9a.png)
 ### School Summary
 * Thomas High School is the only school that is affected
