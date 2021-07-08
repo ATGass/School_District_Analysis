@@ -37,6 +37,7 @@ The idea behind this analysis is to understand school performance (math and read
 
 #### Scores by School Spending
 * Thomas High School went from a $630 - $644 school to a greater than $645 school.
+ * This change occured due to 9th graders not being included in the student count since their scores were not counted.
 * Due to the change, metrics scores and percentages increased for the $645+ schools and decreased for the $630 - $644 schools.
 * Included:
 
@@ -73,3 +74,6 @@ The idea behind this analysis is to understand school performance (math and read
 * Student passing rate for reading at Thomas High School decreased.
 * Math scores for Thomas High School decreased.
 * Student passing rate for math at Thomas High School decreased.
+
+## Disclaiimer
+I did not replace Thomas High School's percents in my code because I used a data frame that already factored out 9th graders at Thomas High School, therefore not needing to replace the percentages.
