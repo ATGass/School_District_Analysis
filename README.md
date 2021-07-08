@@ -75,5 +75,5 @@ The idea behind this analysis is to understand school performance (math and read
 * Math scores for Thomas High School decreased.
 * Student passing rate for math at Thomas High School decreased.
 
-## Disclaiimer
+## Disclaimer
 I did not replace Thomas High School's percents in my code because I used a data frame that already factored out 9th graders at Thomas High School, therefore not needing to replace the percentages.
